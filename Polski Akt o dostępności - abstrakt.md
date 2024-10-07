@@ -1,4 +1,4 @@
-
+# Polski Akt o dostępności - abstrakt
 ## Ważne informacje
 
 To nie jest tekst prawny! Jest to skrót z ustawy, pomagający wstępnie zapoznać się z jej treścią. Z tego też względu nie zawiera wszystkich zapisów (np. listy zmienionych aktów prawnych), nie jest sprawdzony przez prawnika(prawników) pod kątem zgodności z literą i duchem nowych przepisów.
