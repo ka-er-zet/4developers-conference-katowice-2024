@@ -3,6 +3,10 @@
 ## Informacje o tekstach
 Teksty opublikowane w tym repozytorium powstały jako materiał towarzyszący wystąpieniu na konferencji 4Developers w Katowicach, 8 października 2024 r.
 
+[Pierwszy z nich](https://github.com/ka-er-zet/4developers-conference-katowice-2024/blob/main/Rok%202025.%20Musisz%20czy%20chcesz%20w%20dost%C4%99pno%C5%9B%C4%87.md) to tekst zainspirowany wchodzącym w życie w 2025 r. Polskim Aktem o Dostępności. Poza najważniejszymi informacjami o samym akcie zawiera sporo informacji dotyczących dostępności, projektowania uniwersalnego, pracy nad dostępnością w zespole produktowym, tego dlaczego "warto w dostępność" itp. 
+
+Kalkulator twierdzi, że tekst ten może zająć około 40 minut (nie licząc zagłebiania się w linkowane materiały i kursy).
+
 ## Autor
 Autorem jestem ja, czyli [Marcin Krzanicki](https://www.linkedin.com/in/marcinkrzanicki/)
 
