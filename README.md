@@ -7,7 +7,7 @@ Teksty opublikowane w tym repozytorium powstały jako materiał towarzyszący wy
 Autorem jestem ja, czyli [Marcin Krzanicki](https://www.linkedin.com/in/marcinkrzanicki/)
 
 ## Licencja
-Tekst udostępniony jest na licencji Creative Commons Uznanie autorstwa - Użycie niekomercyjne na tych samych warunkach 4.0
+Teksty udostępnione są na licencji [Creative Commons Uznanie autorstwa - Użycie niekomercyjne na tych samych warunkach 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl)
 
 ## Poprawki/zmiany
 Widzisz błąd? Chciałabyś/chciałbyś coś dodać? 
