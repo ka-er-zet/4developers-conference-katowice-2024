@@ -7,6 +7,8 @@ Teksty opublikowane w tym repozytorium powstały jako materiał towarzyszący wy
 
 Kalkulator twierdzi, że tekst ten może zająć około 40 minut (nie licząc zagłebiania się w linkowane materiały i kursy).
 
+[Drugi](https://github.com/ka-er-zet/4developers-conference-katowice-2024/blob/main/Polski%20Akt%20o%20dost%C4%99pno%C5%9Bci%20-%20abstrakt.md) to abstrakt Polskiego Aktu o Dostępności.
+
 ## Autor
 Autorem jestem ja, czyli [Marcin Krzanicki](https://www.linkedin.com/in/marcinkrzanicki/)
 
