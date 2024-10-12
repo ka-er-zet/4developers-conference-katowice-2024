@@ -61,7 +61,7 @@ Wchodzi w życie 28 czerwca 2025 r. Okres przejściowy do 28 czerwca 2030 r.
 - Niedostępne terminale mogą być wykorzystywane do końca ich ekonomicznej użyteczności - jednak nie dłużej niż 20 lat od momentu ich pierwszego użycia 
 - Strony i aplikacje mobilne:
 	- multimedia zarejestrowane przed wejściem w życie ustawy 
-	- Gdy samolotami dokumentów opublikowanymi przed wejściem w życie ustawy
+	- Gdy są repozytoriami dokumentów opublikowanymi przed wejściem w życie ustawy
 	- Gdy zostały zarchiwizowane i nie są edytowane ani aktualizowane od momentu wejścia w życie ustawy
 	
 
